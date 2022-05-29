@@ -1,3 +1,7 @@
+# Testing
+
+Docker image: https://hub.docker.com/repository/docker/manmeet3591/osce_causal
+
 # causal_discovery_for_time_series
 Package to test causal discovery algorithm on simulated and real data 
 
